@@ -1,0 +1,4 @@
+name: geat
+version: '${project.version}'
+main: com.github.kumo0621.geat.Geat
+api-version: "1.20"
